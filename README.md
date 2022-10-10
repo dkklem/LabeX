@@ -24,10 +24,6 @@ Plataforma para a LabeX, empresa fictícia de gerenciamento de viagens espaciais
 ### Link Surge 
 <https://cagey-hammer.surge.sh/>
 
-### Cadastro
-- astrodev@gmail.com.br
-- 123456
-
 ### Imagens
 ![labex-home](https://user-images.githubusercontent.com/104588339/179419879-7e064e20-7357-4a41-956c-78d402b4c2f9.png)
 ![labex-login](https://user-images.githubusercontent.com/104588339/179419898-10f29604-0603-4c5a-9866-c8a0fd7eaab8.png)
